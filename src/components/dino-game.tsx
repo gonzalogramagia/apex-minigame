@@ -104,25 +104,25 @@ export const DinoGame: React.FC = () => {
 
     useEffect(() => {
         const hand = new Image();
-        hand.src = '/hand.png';
+        hand.src = `${import.meta.env.BASE_URL}hand.png`;
         hand.onload = () => {
             handImage.current = hand;
         };
 
         const shovel = new Image();
-        shovel.src = '/shovel.png';
+        shovel.src = `${import.meta.env.BASE_URL}shovel.png`;
         shovel.onload = () => {
             shovelImage.current = shovel;
         };
 
         const rock = new Image();
-        rock.src = '/rock.png';
+        rock.src = `${import.meta.env.BASE_URL}rock.png`;
         rock.onload = () => {
             rockImage.current = rock;
         };
 
         const cops = new Image();
-        cops.src = '/cops.png';
+        cops.src = `${import.meta.env.BASE_URL}cops.png`;
         cops.onload = () => {
             copsImage.current = cops;
         };

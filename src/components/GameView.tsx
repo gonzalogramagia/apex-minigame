@@ -10,7 +10,7 @@ export function GameView() {
         <div className="space-y-4 md:space-y-8 relative">
             <div className="flex flex-col md:flex-row items-center justify-center pt-3 md:pt-10 pb-0 gap-0 md:gap-4 max-w-4xl mx-auto md:pl-8">
                 <img
-                    src="/gamer.png"
+                    src={`${import.meta.env.BASE_URL}gamer.png`}
                     alt="Gamer"
                     onClick={() => toggleAds()}
                     className={`cursor-pointer h-52 md:h-60 w-auto object-contain hover:scale-105 transition-transform duration-500 drop-shadow-2xl mt-0 md:mt-0 md:mb-0`}

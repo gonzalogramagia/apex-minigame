@@ -12,7 +12,7 @@ function AppContent() {
             <AdSidebars />
             <div
                 className="fixed inset-0 z-[-1] bg-cover bg-center bg-fixed bg-no-repeat opacity-5"
-                style={{ backgroundImage: "url('/wallpaper.png')" }}
+                style={{ backgroundImage: `url('${import.meta.env.BASE_URL}wallpaper.png')` }}
             />
             <Routes>
                 <Route path="/" element={

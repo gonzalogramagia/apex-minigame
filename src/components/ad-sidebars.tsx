@@ -3,11 +3,11 @@ import { useGame } from '../contexts/game-context';
 import { useLanguage } from '../contexts/language-context';
 
 const AD_IMAGES = [
-    '/ad-moovimiento/1.png',
-    '/ad-moovimiento/2.png',
-    '/ad-moovimiento/3.png',
-    '/ad-moovimiento/4.png',
-    '/ad-moovimiento/5.png',
+    `${import.meta.env.BASE_URL}ad-moovimiento/1.png`,
+    `${import.meta.env.BASE_URL}ad-moovimiento/2.png`,
+    `${import.meta.env.BASE_URL}ad-moovimiento/3.png`,
+    `${import.meta.env.BASE_URL}ad-moovimiento/4.png`,
+    `${import.meta.env.BASE_URL}ad-moovimiento/5.png`,
 ];
 
 const getRandomImage = () => AD_IMAGES[Math.floor(Math.random() * AD_IMAGES.length)];
