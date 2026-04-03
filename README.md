@@ -1,8 +1,8 @@
-# 🎮 Anti Pala Pro
+# 🎮 Antipala Pro
 
 **A high-stakes arcade game where you must dodge shovels, fight back, and survive the relentless drag.**
 
-"Anti Pala Pro" is a fast-paced survival runner. Whether you're dodging classic shovels or blasting through obstacles in Insane Mode, you'll need quick reflexes and precise movement to stay on the screen and climb the weekly leaderboard.
+"Antipala Pro" is a fast-paced survival runner. Whether you're dodging classic shovels or blasting through obstacles in Insane Mode, you'll need quick reflexes and precise movement to stay on the screen and climb the weekly leaderboard.
 
 ---
 
@@ -57,11 +57,11 @@
 
 ### 🧭 Quick Access
 
-- **Today** (📅): Go to your daily task manager — [apex.hoy.today](https://apex.hoy.today/en)
-- **Emojis** (😎): Access the emoji picker app — [apex.milemojis.com](https://apex.milemojis.com/en)
-- **Scripting** (📖): Access the scripting search — [apexsearch.onrender.com](https://apexsearch.vercel.app/en)
-- **Play** (🎮): You are here! — [apex.antipala.pro](https://apex.antipala.pro/en)
-- **Moovimiento** (⚡): Navigate to Moovimiento — [moovimiento.com](https://moovimiento.com/en)
+- **[Today](https://gonzalogramagia.github.io/apex-today/en)** (📅): Go to your daily task manager
+- **[Emojis](https://gonzalogramagia.github.io/apex-emojis/en)** (😎): Access the emoji picker app
+- **[Search](https://gonzalogramagia.github.io/apex-search/en)** (📖): Access the scripting search
+- **[Minigame: Antipala Pro](https://gonzalogramagia.github.io/apex-minigame/en)** (🎮): You are here!
+- **[Moovimiento](https://moovimiento.com/en)** (⚡): Visit Moovimiento
 
 ---
 

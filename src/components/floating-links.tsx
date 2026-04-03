@@ -9,10 +9,10 @@ export function FloatingLinks() {
         ? (baseUrl.endsWith('/') ? `${baseUrl}en` : `${baseUrl}/en`)
         : baseUrl
 
-    const homeUrl = getUrl("https://apex.hoy.today/")
-    const emojisUrl = getUrl("https://apex.milemojis.com")
-    const scriptingUrl = getUrl("https://apexsearch.vercel.app")
-    const antipalaUrl = getUrl("https://apex.antipala.pro")
+    const homeUrl = getUrl("https://gonzalogramagia.github.io/apex-today/")
+    const emojisUrl = getUrl("https://gonzalogramagia.github.io/apex-emojis")
+    const scriptingUrl = getUrl("https://gonzalogramagia.github.io/apex-search")
+    const antipalaUrl = getUrl("https://gonzalogramagia.github.io/apex-minigame")
     const moovimientoUrl = getUrl("https://moovimiento.com")
 
     return (
