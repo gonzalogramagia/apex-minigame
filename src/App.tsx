@@ -24,7 +24,7 @@ function AppContent() {
                         </main>
                     </>
                 } />
-                <Route path="/en" element={
+                <Route path="/en/*" element={
                     <>
                         <main className="flex-auto min-w-0 mt-6 flex flex-col px-4 md:px-8 lg:px-0">
                             <Home />
